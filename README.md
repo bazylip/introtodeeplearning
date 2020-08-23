@@ -1,5 +1,11 @@
 [![banner](assets/banner.png)](http://introtodeeplearning.com)
 
+## Solutions of assignments from MIT 6S.191 - Intro to Deep Learning
+
+In this repository you can find my solutions of the exercises provided as labs assignments in MIT 6S.191 - Intro to Deep Learning. Feel free to run them yourself by clicking "Run in Google Colab" button at the top of the notebooks. Below you can find the original readme of the course repository.
+
+---
+
 This repository contains all of the code and software labs for [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com)! All lecture slides and videos are available on the course website.
 
 
